@@ -1,6 +1,8 @@
-# vue-project
+# Vue + Naive UI + TailwindCSS Template
 
 This template should help get you started developing with Vue 3 in Vite.
+
+ [![Devices Mockup](readme_assets/1.png)][demo]
 
 ## Recommended IDE Setup
 
